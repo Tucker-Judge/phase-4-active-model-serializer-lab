@@ -35,6 +35,7 @@ Set up a serializer for `Author` that returns the following JSON:
 1. The author's `name`
 2. The author's `profile`, including only the `username`, `email`, `bio` and
    `avatar_url`
+   profile serializer
 3. A list of the author's posts, including:
 
 - the `title`
